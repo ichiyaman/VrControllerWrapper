@@ -18,9 +18,10 @@ if(ControlUtils.LeftHand.Button )
 ・Call Init method once on awake mandatory.
 ControllerUtils.Init() ;   
 
-# Future
+# Attention
  This project has not been fully tested yet.  
- Works with OCULUS and STEAM_VR  
+ Works with OCULUS and STEAM_VR.  
+ If any error occured on Oculus or Vive, Please reinstall SDK and check harwaresetting.
 
 # Platfomrs
 Define Keywords each platforms.
