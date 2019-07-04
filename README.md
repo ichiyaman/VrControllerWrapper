@@ -30,3 +30,6 @@ STEAM_VR - Steam plugin version2 (no support plugin version1)
 VIVE - Vive platform (not work)
 UNITY_PS4 - PlayStation VR.automatically defined.manually set need not. (not work)
 
+# Contact
+ @ydo_1 on twitter  
+ 
